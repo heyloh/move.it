@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./.github/logo.png" alt="Move.it Logo" width="100">
+  <img src="./.github/logo.png" alt="Move.it Logo" width="262.75">
   <br>
 </h1>
 
