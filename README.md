@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>React project for <a href="https://nextlevelweek.com/inscricao/4">NLW#04</a></strong>
+  <strong>React project for <a href="https://nextlevelweek.com/convite/heyloh">NLW#04</a></strong>
 </p>
 
 <p align="center">
