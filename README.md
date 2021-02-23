@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <br>
+  <img src="./.github/logo.png" alt="Move.it Logo" width="262.75">
+  <br>
+</h1>
 
-## Getting Started
+<p align="center">
+  <strong>React project for <a href="https://nextlevelweek.com/convite/heyloh">NLW#04</a></strong>
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="#layout">Layout</a> •
+  <a href="#techs">Technologies</a> •
+  <a href="#author">Author</a> •
+  <a href="#license">License</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="center">
+  <img alt="Screenshot for Move.it" src="./.github/screenshot.png" width="720">
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Layout
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+See more details with the prototype on [Figma](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate).
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p align="center">
+  <img alt="Screenshot for Move.it's Home" src="./.github/home.svg" width="400">
+  <img alt="Screenshot for Move.it Home's init of cycle" src="./.github/home-init-cycle.svg" width="400">
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p align="center">
+  <img alt="Screenshot for Move.it Home's end of cycle" src="./.github/home-end-cycle.svg" width="400">
+  <img alt="Screenshot for Move.it Home's end of cycle" src="./.github/share.svg" width="400">
+</p>
 
-## Learn More
+## Technologies
 
-To learn more about Next.js, take a look at the following resources:
+- [React.js](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> See [`package.json`](./package.json) for more details.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Author
 
-## Deploy on Vercel
+| [![Lohana Torres](https://github.com/heyloh.png?size=100)](https://github.com/heyloh) |
+| ------------------------------------------------------------------------------------- |
+| [Lohana Torres](https://github.com/heyloh)                                            |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[MIT License](./LICENSE.md)
