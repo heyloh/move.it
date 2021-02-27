@@ -6,6 +6,8 @@
 
 <p align="center">
   <strong>Next.js project for <a href="https://nextlevelweek.com/convite/heyloh">NLW#04</a></strong>
+  <br>
+  See the deploy at <a href="https://letsjustmoveit.vercel.app/">Vercel</a> 🚀 
 </p>
 
 <p align="center">
